@@ -16,7 +16,7 @@
    - name: include common role
      include_role:
       name: common
-      #tasks_from: main
+      tasks_from: main
 
 
   #  - name: delete html directory
