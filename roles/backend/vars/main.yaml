@@ -1,0 +1,5 @@
+mysql_host: mysql.ramyaaws.online
+MYSQL_USER: root
+MYSQL_PASSWORD: ExpenseApp@1
+APP_LOCAION: /app
+COMPONENT: backend
